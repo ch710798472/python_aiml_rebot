@@ -6,12 +6,12 @@
 
         <!-- 匹配用户输入的模式 -->
         <!-- 如果用户输入 "LOAD AIML B" -->
-        <pattern>LOAD AIML B</pattern>
+        <pattern>LOAD AIML PATTERN</pattern>
 
         <!-- <Template> 用来响应模式 -->
         <!-- <learn>是一个aiml文件 -->
         <template>
-            <learn>basic_chat.aiml</learn>
+            <learn>test_chat.aiml</learn>
             <!-- 在这下面你能添加更多的aiml文件 -->
             <learn>../aiml/std-65percent.aiml</learn>
             <learn>../aiml/std-dictionary.aiml</learn>
