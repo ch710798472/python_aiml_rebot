@@ -12,7 +12,7 @@ else:
 # kernel.learn("std-startup.xml")
 # kernel.respond("load aiml pattern")
 
-print "hello, you can talk to me! Just tell me ~"
+print "rebot say: hello, you can talk to me! Just tell me ~"
 while True:
     message = raw_input("I say: ")
     if message == "quit":
