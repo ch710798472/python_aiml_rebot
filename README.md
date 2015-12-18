@@ -1,5 +1,5 @@
 # python_aiml_rebot
-#Required python tools aiml
+#Required python tools aiml, run commend like`sudo apt-get install python aiml`
 
 ##Introduction:
 1. Use python tools aiml to bulit a talk-rebot.  
