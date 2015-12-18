@@ -2,14 +2,16 @@
 #Required python tools aiml
 
 ##Introduction:
-####   Use python tools aiml to bulit a talk-rebot.  
-####   Still not complete Chinese language yet.Please  wait.
-###    But it can support python commend like 'quit'(exit()) and so on, just write what you want!And tell the reboot to execute it.
+1. Use python tools aiml to bulit a talk-rebot.  
+2. Still not complete Chinese language yet.Please  wait.
+3. But it can support python commend like 'quit'(exit()) and so on, just write what you want!And tell the reboot to execute it.
 
 ##Quick start:
-####    `git clone https://github.com/ch710798472/python_aiml_rebot.git`
-####    `cd python_aiml_rebot.git`
-####    `python brain.py`
+```
+git clone https://github.com/ch710798472/python_aiml_rebot.git
+cd python_aiml_rebot.git
+python brain.py
+```
 
 ####    And then you can talk to him or her like this:
 ```
