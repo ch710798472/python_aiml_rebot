@@ -1,5 +1,6 @@
 # python_aiml_rebot
-#Required python tools aiml, run commend like  
+#Required python tools aiml  
+run commend like  
 `sudo apt-get install python aiml`
 
 ##Introduction:
