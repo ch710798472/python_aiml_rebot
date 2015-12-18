@@ -5,7 +5,7 @@
     <category>
 
         <!-- 匹配用户输入的模式 -->
-        <!-- 如果用户输入 "LOAD AIML B" -->
+        <!-- 如果用户输入 "LOAD B" -->
         <pattern>LOAD AIML PATTERN</pattern>
 
         <!-- <Template> 用来响应模式 -->

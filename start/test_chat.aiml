@@ -7,7 +7,27 @@
             Well, hello!
         </template>
     </category>
- 
+    
+    <category>
+        <pattern>YOU ARE *</pattern>
+        <template>
+            my name is <set name="rebot_name2"><star/></set>!
+        </template>
+    </category>
+
+    <category>
+        <pattern>你好</pattern>
+        <template>
+            你好啊！ 
+        </template>
+    </category>
+
+    <category>
+        <pattern>我叫你 *</pattern>
+        <template>
+            可以啊，我以后就叫<set name="rebot_name1"><star/></set>
+        </template>
+    </category>
     <category>
         <pattern>WHAT ARE YOU</pattern>
         <template>

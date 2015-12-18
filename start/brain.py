@@ -19,6 +19,8 @@ while True:
         exit()
     elif message == "save":
         kernel.saveBrain("rebot_brain.brn")
+    elif message == "ch":
+        print "rebot say: Cherry! You find me!How did you know my creator??"
     else:
         bot_response = kernel.respond(message)
         print "robot say: %s" % bot_response
