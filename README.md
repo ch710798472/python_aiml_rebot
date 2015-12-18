@@ -11,7 +11,7 @@ run commend like
 ##Quick start:
 ```
 git clone https://github.com/ch710798472/python_aiml_rebot.git
-cd python_aiml_rebot.git
+cd python_aiml_rebot
 python brain.py
 ```
 
